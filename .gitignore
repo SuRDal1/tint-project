@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### 추가 ###
+application.yml
+### 여기에 기입하지 않으면 해킹 위험 ###
