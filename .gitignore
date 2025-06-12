@@ -39,3 +39,5 @@ out/
 ### 추가 ###
 application.yml
 ### 여기에 기입하지 않으면 해킹 위험 ###
+### 잘못 커밋시 git rm --cached src/main/resources/application.yml
+             #git commit -m "Remove application.yml from repository" 으로 처리후 push해 제거###
